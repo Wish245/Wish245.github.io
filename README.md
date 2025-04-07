@@ -1,5 +1,5 @@
 # Wish245.github.io
-<img src="Image.png" width="2000" height="1000"> 
+<img src="Image.png" width="1000" height="1000"> 
 
 ## About Me
 - I'm Sankha Wishwanath
