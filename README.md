@@ -1,2 +1,22 @@
 # Wish245.github.io
-![ChatGPT Image Apr 8, 2025, 02_23_00 AM](https://github.com/user-attachments/assets/2464b3e7-6736-4580-8414-627a27a6e870)
+<img src="Image.png" width="2000" height="1000"> 
+
+## About Me
+- I'm Sankha Wishwanath
+- Undergraduate @ UCSC
+- From Sri Lanka
+- Passionate about frontend development using ReactJS
+- Now in my techstack FastAPI
+- Love ML/AI
+
+## Projects
+Throughout this GitHub repository, you may find abandoned projects and successful attempts.
+Journey through my realm, you may think I'm a fool sometimes. But I learn, I grow, I conquer!!!
+
+## Skills
+- Coding
+- Problem Solving
+- Analytical skills
+- Creativity
+- Crazy
+- Good Communicator
