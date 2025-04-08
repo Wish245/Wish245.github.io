@@ -54,7 +54,7 @@
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat-square&logo=react&logoColor=white)](https://wish245.github.io.dev) <!-- if you have one -->
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat-square&logo=react&logoColor=white)](https://wish245.github.io.dev) <!-- if you have one -->
 
 ---
 
