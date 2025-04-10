@@ -65,7 +65,6 @@
     <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading scrolls..." width="100"/>
   </a>
 </p>
-
 ## 🌐 Let’s Connect
 
 <p align="center">
@@ -76,10 +75,9 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=wish245&style=flat-square&color=0e75b6)
+![Profile Views](https://img.shields.io/github/profile/views/wish245?label=Profile%20Views&style=flat-square&color=0e75b6)
 ![GitHub followers](https://img.shields.io/github/followers/wish245?label=Follow&style=social)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night)
-
 
 ---
 
