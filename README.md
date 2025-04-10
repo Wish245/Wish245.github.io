@@ -34,6 +34,11 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![.env](https://img.shields.io/badge/.env-222222?style=for-the-badge&logo=dotenv&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python Logs](https://img.shields.io/badge/Python%20Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
+
 
 ---
 
@@ -61,7 +66,6 @@
   </a>
 </p>
 
-
 ## 🌐 Let’s Connect
 
 <p align="center">
@@ -69,6 +73,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn: Sankha Wishwanath" width="40" />
   </a>
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=wish245&style=flat-square&color=0e75b6)
+![GitHub followers](https://img.shields.io/github/followers/wish245?label=Follow&style=social)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night)
 
 
 ---
