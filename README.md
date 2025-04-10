@@ -48,8 +48,11 @@
 *Stay tuned for blogs on React spellcraft, FastAPI rituals, and career quests.*
 
 <p align="center">
-  <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading scrolls..." width="100"/>
+  <a href="https://www.linkedin.com/in/sankha-wishwanath/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading scrolls..." width="100"/>
+  </a>
 </p>
+
 
 ## 🌐 Let’s Connect
 
