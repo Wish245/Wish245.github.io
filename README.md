@@ -7,7 +7,7 @@
 ---
 
 ## 🧙‍♂️ About Me
-- 🚀 A Presales Engineer evolving into a Software Sorcerer.
+- 🚀 A Young Scholar of Computer Sciences embarking on a Quest to become a Master Software Developer.
 - 🌍 Passionate about blending frontend magic with backend rituals.
 - 🧩 Loves React.js, FastAPI, and turning caffeine into code.
 - 🌸 Love to learn new magic.
