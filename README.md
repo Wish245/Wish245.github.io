@@ -1,10 +1,8 @@
 <h1 align="center">✨ Hi, I’m Wish245 👑</h1>
 <p align="center">🔮 React Wizard | 🧬 FastAPI Alchemist | 🌸 Building the Flower Market of the Future</p>
 <p align="center">
-  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F77FFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Wish245!;Architect+of+Realms+Digital+and+Divine.;Craftsman+of+Order+from+Chaos.;Conjurer+of+Flow,+Function,+and+Form.;Wielder+of+Logic,+Lore,+and+Lightning.;Forging+Futures+One+Spell+at+a+Time.">
 </p>
-
 
 ---
 
@@ -39,7 +37,6 @@
 ![Python Logs](https://img.shields.io/badge/Python%20Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -57,6 +54,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night)
 
 ---
+
 ## ✍️ Wisdom Scrolls (Coming Soon)
 *Stay tuned for blogs on React spellcraft, FastAPI rituals, and career quests.*
 
@@ -65,6 +63,7 @@
     <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading scrolls..." width="100"/>
   </a>
 </p>
+
 ## 🌐 Let’s Connect
 
 <p align="center">
@@ -75,11 +74,12 @@
 
 ---
 
-![Profile Views](https://img.shields.io/github/profile/views/wish245?label=Profile%20Views&style=flat-square&color=0e75b6)
 ![GitHub followers](https://img.shields.io/github/followers/wish245?label=Follow&style=social)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=wish245)
 
 ---
 
 > *"Keep coding, keep conjuring, and may your bugs be few and your commits be mighty."* 🧙‍♂️
-
