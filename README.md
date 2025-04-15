@@ -1,16 +1,17 @@
 <h1 align="center">✨ Hi, I’m Wish245 👑</h1>
 <p align="center">🔮 React Wizard | 🧬 FastAPI Alchemist | 🌸 Building the Flower Market of the Future</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F77FFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Wish245!;Architect+of+Realms+Digital+and+Divine.;Craftsman+of+Order+from+Chaos.;Conjurer+of+Flow,+Function,+and+Form.;Wielder+of+Logic,+Lore,+and+Lightning.;Forging+Futures+One+Spell+at+a+Time.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=F77FFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Wish245!;Architect+of+Realms+Digital+and+Divine.;Craftsman+of+Order+from+Chaos.;Conjurer+of+Flow,+Function,+and+Form.;Wielder+of+Logic,+Lore,+and+Lightning.;Forging+Futures+One+Spell+at+a+Time.">
 </p>
 
 ---
 
 ## 🧙‍♂️ About Me
+
 - 🚀 A Young Scholar of Computer Sciences embarking on a Quest to become a Master Software Developer.
 - 🌍 Passionate about blending frontend magic with backend rituals.
 - 🧩 Loves React.js, FastAPI, and turning caffeine into code.
-- 🌸 Love to learn new magic.
+- 🌸 Always curious, forever learning new magic.
 
 ---
 
@@ -34,7 +35,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![.env](https://img.shields.io/badge/.env-222222?style=for-the-badge&logo=dotenv&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python Logs](https://img.shields.io/badge/Python%20Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
 
 ---
@@ -42,21 +43,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wish245&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wish245&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wish245&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=wish245&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wish245&layout=compact&theme=tokyonight" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=wish245&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wish245&theme=onedark" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night" />
+</p>
 
 ---
 
 ## ✍️ Wisdom Scrolls (Coming Soon)
-*Stay tuned for blogs on React spellcraft, FastAPI rituals, and career quests.*
+
+🧾 *Stay tuned for blogs on React spellcraft, FastAPI rituals, and full-stack quests!*  
+📌 *ETA: May 2025*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankha-wishwanath/" target="_blank" rel="noopener noreferrer">
@@ -64,21 +71,22 @@
   </a>
 </p>
 
+---
+
 ## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankha-wishwanath/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn: Sankha Wishwanath" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/wish245?label=Follow&style=social)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=wish245)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wish245" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wish245?label=Follow&style=social" />
+</p>
 
 ---
 
