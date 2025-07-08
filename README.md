@@ -10,7 +10,7 @@
 
 - 🚀 A Young Scholar of Computer Sciences embarking on a Quest to become a Master Software Developer.
 - 🌍 Passionate about blending frontend magic with backend rituals.
-- 🧩 Loves React.js, FastAPI, and turning caffeine into code.
+- 🧩 Loves React.js, C# & .NET, and turning caffeine into code.
 - 🌸 Always curious, forever learning new magic.
 
 ---
